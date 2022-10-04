@@ -212,5 +212,9 @@ $RECYCLE.BIN/
 *.lnk
 
 ### Custom ###
+# Data
+data/*
+!data/.gitkeep
+
 # Scratch notebook
 notebooks/scratch.ipynb
