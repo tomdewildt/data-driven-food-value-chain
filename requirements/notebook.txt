@@ -1,5 +1,5 @@
 hmmlearn==0.2.8
-jupyterlab==3.5.0
+jupyterlab==3.5.1
 livelossplot==0.5.5
 matplotlib==3.6.2
 pandas==1.5.2
